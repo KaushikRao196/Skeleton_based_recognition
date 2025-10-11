@@ -63,11 +63,13 @@ python main_ce.py
 ### Acknowledgement
 The framework is extended from the following repositories. We sincerely thank the authors for releasing the codes.
 
-1. The framework is based on [SupCon](https://github.com/HobbitLong/SupContrast/).
+1. The framework is based on [ConMLP](https://github.com/ChuanDai/ConMLP)
 
-2. The encoder is based on [Graph-MLP](https://github.com/yanghu819/Graph-MLP/).
+2. The framework is based on [SupCon](https://github.com/HobbitLong/SupContrast/).
 
-3. The data extractor is based on [PSUMNet](https://github.com/skelemoa/psumnet/).
+3. The encoder is based on [Graph-MLP](https://github.com/yanghu819/Graph-MLP/).
+
+4. The data extractor is based on [PSUMNet](https://github.com/skelemoa/psumnet/).
 =======
-# Batch_Thesis
+
 >>>>>>> 0347e9c79865d06cd5e0cf3ee7d6f4abd16cc05b
